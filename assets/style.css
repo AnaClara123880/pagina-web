@@ -1,8 +1,8 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
-}
+    --text-color: #8B008B;
+    --card-front-color: #00FFFF;
+    --card-back-color: #7FFFD4;
+
 
 body {
     background: url('img/bg-desktop.webp');
