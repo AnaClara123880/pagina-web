@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'história',
+    'O que é história?',
+    'uma CIÊNCIA'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'CIÊNCIA',
+    'o que é uma CIÊNCIA?',
+    'um conjunto organizado de conhecimento submetido ao método científico'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'métodos científicos',
+    'quais as etapas do método científico',
+    'observação, levantamento de hipóteses, experimento, conclusão'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'definição dos métodos',
+    'o que é método científico',
+    'um caminho, uma maneira de fazer as coisas'
 )
